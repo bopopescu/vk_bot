@@ -1,0 +1,175 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="user-select" />
+            <item index="1" class="java.lang.String" itemvalue="font-color" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="62" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="{{" />
+            <item index="1" class="java.lang.String" itemvalue="}}" />
+            <item index="2" class="java.lang.String" itemvalue="padding" />
+            <item index="3" class="java.lang.String" itemvalue="page.has_prev" />
+            <item index="4" class="java.lang.String" itemvalue="not" />
+            <item index="5" class="java.lang.String" itemvalue="{%" />
+            <item index="6" class="java.lang.String" itemvalue="%}" />
+            <item index="7" class="java.lang.String" itemvalue="endif" />
+            <item index="8" class="java.lang.String" itemvalue="if" />
+            <item index="9" class="java.lang.String" itemvalue="page" />
+            <item index="10" class="java.lang.String" itemvalue="bgcolor" />
+            <item index="11" class="java.lang.String" itemvalue="value" />
+            <item index="12" class="java.lang.String" itemvalue="dropdown-item" />
+            <item index="13" class="java.lang.String" itemvalue="href" />
+            <item index="14" class="java.lang.String" itemvalue="window.initmap" />
+            <item index="15" class="java.lang.String" itemvalue="name" />
+            <item index="16" class="java.lang.String" itemvalue="type" />
+            <item index="17" class="java.lang.String" itemvalue="form-signin" />
+            <item index="18" class="java.lang.String" itemvalue="news_refactor" />
+            <item index="19" class="java.lang.String" itemvalue="col-md-6" />
+            <item index="20" class="java.lang.String" itemvalue="basket" />
+            <item index="21" class="java.lang.String" itemvalue="url" />
+            <item index="22" class="java.lang.String" itemvalue="+)" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="dvi" />
+            <item index="7" class="java.lang.String" itemvalue="div" />
+            <item index="8" class="java.lang.String" itemvalue="lable" />
+            <item index="9" class="java.lang.String" itemvalue="h3" />
+            <item index="10" class="java.lang.String" itemvalue="h6" />
+            <item index="11" class="java.lang.String" itemvalue="input" />
+            <item index="12" class="java.lang.String" itemvalue="alert-info" />
+            <item index="13" class="java.lang.String" itemvalue="br" />
+            <item index="14" class="java.lang.String" itemvalue="a" />
+            <item index="15" class="java.lang.String" itemvalue="li" />
+            <item index="16" class="java.lang.String" itemvalue="h4" />
+            <item index="17" class="java.lang.String" itemvalue="h5" />
+            <item index="18" class="java.lang.String" itemvalue="i" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSDuplicateCaseLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSDuplicatedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSJQueryEfficiency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="43">
+            <item index="0" class="java.lang.String" itemvalue="pyjwt" />
+            <item index="1" class="java.lang.String" itemvalue="functools" />
+            <item index="2" class="java.lang.String" itemvalue="time" />
+            <item index="3" class="java.lang.String" itemvalue="datetime" />
+            <item index="4" class="java.lang.String" itemvalue="MySQL-python" />
+            <item index="5" class="java.lang.String" itemvalue="mysql-connector-python" />
+            <item index="6" class="java.lang.String" itemvalue="python-dev-tools" />
+            <item index="7" class="java.lang.String" itemvalue="mariadb" />
+            <item index="8" class="java.lang.String" itemvalue="configparser2" />
+            <item index="9" class="java.lang.String" itemvalue="mysql-client" />
+            <item index="10" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="11" class="java.lang.String" itemvalue="mysql-connector" />
+            <item index="12" class="java.lang.String" itemvalue="mysql" />
+            <item index="13" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="14" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="15" class="java.lang.String" itemvalue="greenlet" />
+            <item index="16" class="java.lang.String" itemvalue="jwt" />
+            <item index="17" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="18" class="java.lang.String" itemvalue="cffi" />
+            <item index="19" class="java.lang.String" itemvalue="Click" />
+            <item index="20" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="21" class="java.lang.String" itemvalue="pycparser" />
+            <item index="22" class="java.lang.String" itemvalue="requests" />
+            <item index="23" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="24" class="java.lang.String" itemvalue="eventlet" />
+            <item index="25" class="java.lang.String" itemvalue="certifi" />
+            <item index="26" class="java.lang.String" itemvalue="heroku" />
+            <item index="27" class="java.lang.String" itemvalue="monotonic" />
+            <item index="28" class="java.lang.String" itemvalue="urllib3" />
+            <item index="29" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="30" class="java.lang.String" itemvalue="Flask" />
+            <item index="31" class="java.lang.String" itemvalue="Flask-Session" />
+            <item index="32" class="java.lang.String" itemvalue="dnspython" />
+            <item index="33" class="java.lang.String" itemvalue="six" />
+            <item index="34" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="35" class="java.lang.String" itemvalue="python-engineio" />
+            <item index="36" class="java.lang.String" itemvalue="cryptography" />
+            <item index="37" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="38" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="39" class="java.lang.String" itemvalue="chardet" />
+            <item index="40" class="java.lang.String" itemvalue="python-socketio" />
+            <item index="41" class="java.lang.String" itemvalue="Flask-SocketIO" />
+            <item index="42" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blog.views.views" />
+          <option value="models.*" />
+          <option value="list.group" />
+          <option value="int.has_next" />
+          <option value="list.length" />
+          <option value="str.length" />
+          <option value="tuple.append" />
+          <option value="mysql.connection" />
+          <option value="str.*" />
+          <option value="list.set" />
+          <option value="dict.sort" />
+          <option value="list.len" />
+          <option value="int.upper" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="TypeScriptDuplicateUnionOrIntersectionType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
